@@ -1,0 +1,10 @@
+# build output
+mytar
+create_archive
+extract_archive
+*.o
+*.out
+*.tar
+
+# editor backup files
+*~
